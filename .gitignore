@@ -1,0 +1,9 @@
+#git ignore file for CT4028 Assessment Repo
+
+# Ignore VS2019 generated folder
+.vs/
+obj/
+bin/
+
+# ignore user preferences VS file
+*.vcxproj.user
